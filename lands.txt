@@ -1,0 +1,5 @@
+101 Kathmandu East 4 500000 Available
+102 Bhaktapur North 5 700000 Available
+103 Lalitpur South 6 100000 Unavailable
+104 Chitwan West 7 800000 Unavailable
+105 Bharatpur East 8 700000 Unavailable
